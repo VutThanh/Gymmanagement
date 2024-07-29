@@ -1,0 +1,242 @@
+C:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.exe.config
+C:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.exe
+C:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.pdb
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management appication.exe
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\Gym management appication.exe.config
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\Gym management appication.exe
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\Gym management appication.pdb
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management application.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management appication.exe
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.thongKeHoiVien.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.thongKeHoiVien.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.DanhSachHoiVien.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPt.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPT.resources
+D:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.exe.config
+D:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.exe
+D:\Github\Gym-management\Gym management application\bin\Debug\Gym management appication.pdb
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPT.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.thongKeHoiVien.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management appication.exe
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyDoanhThu.ThongKeDoangThu.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\QRCoder.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\zxing.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\zxing.presentation.dll
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.xml
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.xml
+C:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+C:\Github\Gym-management\Gym management application\bin\Debug\zxing.xml
+C:\Github\Gym-management\Gym management application\bin\Debug\zxing.presentation.xml
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.QRCodeFeature.QRScanForm.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.Video.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\QRCoder.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\zxing.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\zxing.presentation.dll
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.xml
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.Video.xml
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\zxing.xml
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\bin\Debug\zxing.presentation.xml
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyDoanhThu.ThongKeDoangThu.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.QRCodeFeature.QRScanForm.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+C:\Users\Dell\Documents\GitHub\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\QRCoder.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\zxing.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\zxing.presentation.dll
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.xml
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.xml
+D:\Github\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+D:\Github\Gym-management\Gym management application\bin\Debug\zxing.xml
+D:\Github\Gym-management\Gym management application\bin\Debug\zxing.presentation.xml
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyDoanhThu.ThongKeDoangThu.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.QRCodeFeature.QRScanForm.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Scanning.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Attendance.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.AssemblyReference.cache
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyNhanVien.TaoTaiKhoanDangNhap.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\Gym management appication.exe.config
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\Gym management appication.exe
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\Gym management appication.pdb
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.Video.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\QRCoder.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\zxing.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\zxing.presentation.dll
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.xml
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.Video.xml
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\zxing.xml
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\bin\Debug\zxing.presentation.xml
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management application.csprojAssemblyReference.cache
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPT.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyDoanhThu.ThongKeDoangThu.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.MemberListForm.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyNhanVien.TaoTaiKhoanDangNhap.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Attendance.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Scanning.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.thongKeHoiVien.resources
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management appication.exe
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Users\kimth\OneDrive\Desktop\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.QRCodeFeature.QRScanForm.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.MemberListForm.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyNhanVien.TaoTaiKhoanDangNhap.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Attendance.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Scanning.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\Gym management appication.exe.config
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\Gym management appication.exe
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\Gym management appication.pdb
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.Video.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\QRCoder.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\zxing.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\zxing.presentation.dll
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.xml
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.Video.xml
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\zxing.xml
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\bin\Debug\zxing.presentation.xml
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management application.csprojAssemblyReference.cache
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPT.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyDoanhThu.ThongKeDoangThu.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.MemberListForm.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.QRCodeFeature.QRScanForm.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyNhanVien.TaoTaiKhoanDangNhap.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Attendance.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Scanning.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.thongKeHoiVien.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management appication.exe
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.QuanLyPhanHoi.resources
+C:\Users\Jenkoz\Documents\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.XemPhanHoi.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.QuanLyPhanHoi.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.XemPhanHoi.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.MemberListForm.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.QuanLyPhanHoi.resources
+D:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyPhanHoi.XemPhanHoi.resources
+C:\Github\Gym-management\Gym management application\obj\Debug\Gym_management_appication.UI.Loghistory.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management application.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management application.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.LichTrucPT.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.ThemLichTrucPT.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.LichTrucPT.XoaLichTrucPT.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.Loghistory.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.Login.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.MainMenu.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyHoiVien.DangKyHoiVien.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.Database.QuanLyHoiVien.MemberListForm.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.Properties.Resources.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyNhanVien.TaoTaiKhoanDangNhap.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.ChiTietThietBi.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.DanhSachNhanVien.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.NhanVienControl.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.QuanLyThietBi.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.ThongKeHoiVien.ThanhToan.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.Attendance.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym_management_appication.UI.Scanning.resources
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management application.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management application.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management appication.exe
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management appication.pdb
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\Gym management appication.exe.config
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\Gym management appication.exe
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\Gym management appication.pdb
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.Video.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\QRCoder.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\zxing.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\zxing.presentation.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.xml
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.Video.xml
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\zxing.xml
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\zxing.presentation.xml
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\obj\Debug\Gym management application.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\log4net.dll
+C:\Users\user\OneDrive\Desktop\Gym-management-master\Gym management application\bin\Debug\log4net.xml
+D:\Phân Tích và Quản lý\Code\Gym-management-master\Gym management application\obj\Debug\Gym management appication.exe
+D:\Phân Tích và Quản lý\Code\Gym-management-master\Gym management application\obj\Debug\Gym management appication.pdb

@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0704BB05-08DA-46B0-808C-BCFE447A60A4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Gym_management_appication</RootNamespace>
+    <AssemblyName>Gym management appication</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>packages\CrystalReports.AxShockwaveFlashObjects.13.0.4003\lib\net40\AxShockwaveFlashObjects.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=2.0.12.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>packages\log4net.2.0.12\lib\net45\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="QRCoder, Version=1.4.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\QRCoder.1.4.1\lib\net40\QRCoder.dll</HintPath>
+    </Reference>
+    <Reference Include="ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>packages\CrystalReports.ShockwaveFlashObjects.13.0.4003\lib\net40\ShockwaveFlashObjects.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+    <Reference Include="zxing, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.6\lib\net461\zxing.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.6.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>packages\ZXing.Net.0.16.6\lib\net461\zxing.presentation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\AttendanceClass.cs" />
+    <Compile Include="Class\feedBack.cs" />
+    <Compile Include="Class\hoiVien.cs" />
+    <Compile Include="Class\LichTrucPT.cs" />
+    <Compile Include="Class\QuanLyNhanVien\NhanVien.cs" />
+    <Compile Include="Class\trangThietBi.cs" />
+    <Compile Include="Class\valiballecommon.cs" />
+    <Compile Include="Database\Attendance.cs" />
+    <Compile Include="Database\BackgroundProcess.cs" />
+    <Compile Include="Database\conString\ConString.cs" />
+    <Compile Include="Database\DoanhThu.cs" />
+    <Compile Include="Database\feedBackDB.cs" />
+    <Compile Include="Database\GoiTap.cs" />
+    <Compile Include="Database\hoiVien.cs" />
+    <Compile Include="Database\LichTrucPT\LichTrucPTModel.cs" />
+    <Compile Include="Database\Log.cs" />
+    <Compile Include="Database\LogIn.cs" />
+    <Compile Include="Database\QuanLyHoiVien\DSHVModel.cs" />
+    <Compile Include="MainDataClasses.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>MainDataClasses.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="UI\Loghistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Loghistory.Designer.cs">
+      <DependentUpon>Loghistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\TaoTaiKhoanDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\TaoTaiKhoanDangNhap.Designer.cs">
+      <DependentUpon>TaoTaiKhoanDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Scanning\Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Scanning\Attendance.Designer.cs">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\LichTrucPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\LichTrucPT.Designer.cs">
+      <DependentUpon>LichTrucPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\ThemLichTrucPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\ThemLichTrucPT.Designer.cs">
+      <DependentUpon>ThemLichTrucPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\XoaLichTrucPT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\LichTrucPT\XoaLichTrucPT.Designer.cs">
+      <DependentUpon>XoaLichTrucPT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyHoiVien\DangKyHoiVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyHoiVien\DangKyHoiVien.Designer.cs">
+      <DependentUpon>DangKyHoiVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyHoiVien\MemberListForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyHoiVien\MemberListForm.Designer.cs">
+      <DependentUpon>MemberListForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database\QuanLyNhanVien\DSNVModel.cs" />
+    <Compile Include="Database\trangThietBi.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\QuanLyThietBi\ChiTietThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyThietBi\ChiTietThietBi.Designer.cs">
+      <DependentUpon>ChiTietThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\DanhSachNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\DanhSachNhanVien.Designer.cs">
+      <DependentUpon>DanhSachNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\NhanVienControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyNhanVien\NhanVienControl.Designer.cs">
+      <DependentUpon>NhanVienControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyThietBi\QuanLyThietBi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyThietBi\QuanLyThietBi.Designer.cs">
+      <DependentUpon>QuanLyThietBi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\QuanLyDoanhThu\ThanhToan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\QuanLyDoanhThu\ThanhToan.Designer.cs">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Scanning\Scanning.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Scanning\Scanning.Designer.cs">
+      <DependentUpon>Scanning.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\LichTrucPT\LichTrucPT.resx">
+      <DependentUpon>LichTrucPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\LichTrucPT\ThemLichTrucPT.resx">
+      <DependentUpon>ThemLichTrucPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\LichTrucPT\XoaLichTrucPT.resx">
+      <DependentUpon>XoaLichTrucPT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Loghistory.resx">
+      <DependentUpon>Loghistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyHoiVien\DangKyHoiVien.resx">
+      <DependentUpon>DangKyHoiVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyHoiVien\MemberListForm.resx">
+      <DependentUpon>MemberListForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\QuanLyNhanVien\TaoTaiKhoanDangNhap.resx">
+      <DependentUpon>TaoTaiKhoanDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyThietBi\ChiTietThietBi.resx">
+      <DependentUpon>ChiTietThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyNhanVien\DanhSachNhanVien.resx">
+      <DependentUpon>DanhSachNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyNhanVien\NhanVienControl.resx">
+      <DependentUpon>NhanVienControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyThietBi\QuanLyThietBi.resx">
+      <DependentUpon>QuanLyThietBi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\QuanLyDoanhThu\ThanhToan.resx">
+      <DependentUpon>ThanhToan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Scanning\Attendance.resx">
+      <DependentUpon>Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Scanning\Scanning.resx">
+      <DependentUpon>Scanning.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="MainDataClasses.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>MainDataClasses.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="MainDataClasses.dbml.layout">
+      <DependentUpon>MainDataClasses.dbml</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Control\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\istockphoto-953455856-170667a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+if exist "$(TargetPath)" if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+</Project>
